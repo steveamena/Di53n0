@@ -1,0 +1,67 @@
+Base
+
+--base01 x1
+--Frente x1
+--Lateral x2
+--Soporte laser x1
+--Trasera x1
+
+eliminar soporte celular
+
+Blanco
+--BaseBlanco01 x2
+--BaseBlanco02 x2
+--BasePulsador01 x1
+--SoporteBlanco x2
+
+CaseFrente
+--CaseF1 x3
+--CaseF2 x3
+--CaseF3 x2
+
+CaseTrasero
+--CaseT1 x6
+--CaseT2 x2
+
+Reservorio
+--Motor_Disco x1
+--ReservorioLaterales x4
+--Reservorio1 x1
+--Reservorio2 x1
+--ReservorioTapa x1 
+--Soporte Motor Base x1
+--Soporte Morot laterales x2
+--Soporte Canon x1
+--Soporte Laser1 x1 
+--Soporte Laser2 x1 
+--Soportes A Base1 x2
+--Soportes A base2 x4
+--Soportes a base3 x2
+--Soportes Arana  x3
+
+eliminar ReservorioLateral01
+
+Mecanismo de disparo
+--Soporte1 x1
+--Soporte2 x1 
+--Soporte3y4 x2
+--SoporteDelantero x1
+--SoportePistol_Laterales x2
+--SoporteTrasero x1
+
+CAMBIOS
+
+Reservorio
+--ReservorioLateral01 x1
+--ReservorioLaterles x3
+--SoporteHold01 x1
+--SoporteHold02 x2
+
+--SoporteArana:  Quitar dos agujeros, dejar uno
+
+Base
+--Lateral:  Quitar un agujero de los dos
+
+QUITAR TODAS LAS PIEZAS DEL BLANCO
+
+
