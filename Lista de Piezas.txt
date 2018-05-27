@@ -1,0 +1,99 @@
+Pieza		plano?	Número	Encargado
+--------------------------------------------------
+Arduino		N	46	SM
+------------------		
+Base:				
+				
+Base_01		S	1	SM
+Frente		S	2	SM
+Lateral		S	3	SM
+mini_breadboar	N	47	JP
+Rueda		N	48	JP
+Soporte_Laser	S	4	SM
+Trasera		S	5	SM
+------------------			
+				
+Batería:			
+------------------		
+Asusbatterybank	N		SM		
+------------------		
+				
+BatteryHolder:			
+------------------		
+Blanco:				
+				
+BaseBlanco01	S	6	SM
+BaseBlanco02	S	7	SM
+BasePulsador:	S	8	SM
+BasePulsador02	S	9	SM
+SoporteBlanco	S	10	SM
+SoporteBlanco02	S	11	SM
+------------------		
+CaseFrente:			
+				
+CaseF1		S	12	SM
+CaseF2		S	13	SM
+CaseF3		S	14	sM
+------------------
+CaseTrasero:			
+				
+CaseT1		S	15	SM
+CaseT1Hueco	S	16	SM
+CaseT2		S	17	SM
+------------------		SM
+Motor:				
+				
+Motor		N	49	JP
+------------------		
+Proto:
+
+tiy-breadboard	N	50	JP
+------------------		
+Reservorio:			
+				
+Motor_Disco	S	18	JP
+Reservorio_Late	S	19	JP
+Reservorio_Late	S	20	JP
+Reservorio1	S	21	JP
+Reservorio2	S	22	JP
+ReservorioTapa	S	23	JP
+Soporte_motor_	S	24	JP
+Soporte_motor_I	S	25	JP
+SoporteCanon	S	26	JP
+SoporteHold1	S	27	JP
+SoporteHold2	S	28	JP
+SoporteLaser1	S	29	JP
+SoporteLaser2	S	30	JP
+SoportesAbase1	S	31	JP
+SoportesABase2	S	32	JP
+SoportesABase3	S	33	JP
+SoportesArana	S	34	JP
+SoportesAranaHu	S	35	JP
+Tubo		S	36	JP
+TuboPecera	N	51	SM
+------------------		
+RuedaLoca	N	52	JP	
+------------------		
+SoportePistola:			
+				
+Soporte1	S	37	SM
+Soporte2	S	38	SM
+Soporte3y4	S	39	SM
+SoporteDelanter	S	40	SM
+SoportePistol_L	S	41	JP	
+SoporteTrasero	S	42	JP
+------------------		
+Switch		N	53	SM
+------------------		
+Otras piezas:			
+				
+Canon		S	43	SM
+Eje_planta_1	?		
+Laser		S	44	JP
+Llanta_1	N	54	SM
+Pieza_Union	S	45	SM
+Pistola		N	55	SM
+Union_Canon_Res	No es parte
+
+SM se va a encargar del explosionado y JP de la tabla de materiales.
+	
