@@ -7,11 +7,11 @@ Nombre		Numero		Encargado
 EnsambleGeneral			DA
 Base				DA	
 Blanco				JP
-CaseFrente			SM
-CaseTrasero			SM
-Motor-Rueda			JP
-Reservorio			JP				
-SoportePistola			DA
+CaseFrente			JP
+CaseTrasero			JP
+Motor-Rueda			SM
+Reservorio			DA				
+SoportePistola			SM
 EnsambleMecaniDi		SM	
 --------------------------------------
 							
