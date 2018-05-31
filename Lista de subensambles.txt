@@ -1,0 +1,17 @@
+Funciones: La persona encargada de cada
+subensamble deberá hacer el plano exposionado
+de cada uno, el plano de conjunto
+y la tabla de materiales de cada uno.
+
+Nombre		Numero		Encargado
+EnsambleGeneral			DA
+Base				DA	
+Blanco				JP
+CaseFrente			SM
+CaseTrasero			SM
+Motor-Rueda			JP
+Reservorio			JP				
+SoportePistola			DA
+EnsambleMecaniDi		SM	
+--------------------------------------
+							
