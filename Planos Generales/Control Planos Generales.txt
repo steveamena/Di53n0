@@ -1,0 +1,11 @@
+Tabla de control de planos:
+
+Plano			Numero	Dibujó	Verificó
+				
+Plano Conjunto:Ensambl	1									
+Explosionado: Ensamble	2
+Plano Conjunto: Base	3
+Explosionado: Base	4				
+					
+				
+				
