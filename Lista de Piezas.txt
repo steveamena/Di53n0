@@ -95,5 +95,9 @@ Pieza_Union	S	45	SM
 Pistola		N	55	SM
 Union_Canon_Res	No es parte
 
+------
+Rueda		N	71
+Motor		N	72
+Sujeciones de m	N	73
 SM se va a encargar del explosionado y JP de la tabla de materiales.
 	
