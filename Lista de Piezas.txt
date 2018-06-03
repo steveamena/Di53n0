@@ -24,23 +24,23 @@ Blanco:
 				
 BaseBlanco01	S	6	SM
 BaseBlanco02	S	7	SM
-BasePulsador:	S	8	SM
+BasePulsador01	S	8	SM
 BasePulsador02	S	9	SM
 SoporteBlanco	S	10	SM
 SoporteBlanco02	S	11	SM
 ------------------		
 CaseFrente:			
 				
-CaseF1		S	12	SM
-CaseF2		S	13	SM
-CaseF3		S	14	sM
+CaseF1		S	12	JP
+CaseF2		S	13	JP
+CaseF3		S	14	JP
 ------------------
 CaseTrasero:			
 				
-CaseT1		S	15	SM
-CaseT1Hueco	S	16	SM
-CaseT2		S	17	SM
-------------------		SM
+CaseT1		S	15	JP
+CaseT1Hueco	S	16	JP
+CaseT2		S	17	JP
+------------------		
 Motor:				
 				
 Motor		N	49	JP

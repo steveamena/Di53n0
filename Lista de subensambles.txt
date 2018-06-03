@@ -22,7 +22,7 @@ Tabla de control de planos:
 
 Plano			Número	Dibujó	Verific
 
-Tabla de materiales	1	JP	DA	
+Tabla de materiales	1	SM	DA	
 Plano Conjunto:Ensambl	2	DA	JP								
 Explosionado: Ensamble	3	DA	JP
 Plano Conjunto: Base	4	DA	SM
